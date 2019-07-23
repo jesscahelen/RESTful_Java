@@ -1,14 +1,12 @@
 # AcademiaProGrowth_Project
 Gym Manager software
 
-Below the UML Class Diagram:
+UML Class Diagram:
 
 ![alt text](https://github.com/jesscahelen/RESTful_Java/blob/master/ReadMeFiles/Projeto%20Lab%20BD%20III.jpeg)
 
 
 *Classes*
-
-We build many classes looking for performize our Software. The classes are:
 
 - Academia
 - Acesso  
@@ -21,3 +19,4 @@ We build many classes looking for performize our Software. The classes are:
 - Professor
 - Shape
 
+Projeto realizado por demanda da matéria de Laboratório de Banco de Dados III do curso de Banco de Dados da FATEC de São José dos Campos
